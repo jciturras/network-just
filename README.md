@@ -1,7 +1,6 @@
-# git-elsoc
+# network-just
 
-**Autor**: Julio César Iturra Sanhueza.
-
+Exploring the Association Between Occupational Social Networks and the Justification of Social Inequality in Chile
 
 El presente ejemplo se fundamenta en el Protocolo IPO ([Castillo, 2020](https://juancarloscastillo.github.io/ipo/index_es.html))
 
@@ -9,7 +8,6 @@ El presente ejemplo se fundamenta en el Protocolo IPO ([Castillo, 2020](https://
 ```
 │   LICENSE
 │   README.md
-│   git-elsoc.Rproj
 │   paper.Rmd
 │
 ├───input
